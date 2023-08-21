@@ -10,4 +10,11 @@
 
 6. git commit -m "commit message"
 
+7. git remote add origin <remote-ssh-link>
+
+8. generating ssh key: 
+ssh-keychain -t -rsa -b 4096 -C "youremail@gmail.com"
+
+9. git remote -v 
+
 *Note .gitignore : there are some file and folder that should not be committed and pushed to github. such files and folder are kept in .gitignore file. 
