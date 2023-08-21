@@ -16,5 +16,27 @@
 ssh-keychain -t -rsa -b 4096 -C "youremail@gmail.com"
 
 9. git remote -v 
+    list all the remotes in the repo
+
+10. git remote remove origin
+    It removes remote from the local repo
+
 
 *Note .gitignore : there are some file and folder that should not be committed and pushed to github. such files and folder are kept in .gitignore file. 
+
+
+Git Branch 
+
+there may be several features in a project divided among the developers. Such features are added bu the developers int their respective branches
+
+1. git branch 
+    It shows all the branches and highlights the current branch.
+
+2. git checkout branchname
+    It leaves the current branch and jumps to the branch name provided
+
+3. git checkout -b <branchname>
+    It creates a new branch and jumps to that branch.
+
+fdkjghkdsfghkidshgkdfjgb
+
