@@ -38,5 +38,5 @@ there may be several features in a project divided among the developers. Such fe
 3. git checkout -b <branchname>
     It creates a new branch and jumps to that branch.
 
-fdkjghkdsfghkidshgkdfjgb
+
 
